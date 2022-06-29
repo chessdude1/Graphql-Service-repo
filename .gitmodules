@@ -1,0 +1,6 @@
+[submodule "nest-graphql"]
+	path = nest-graphql
+	url = https://github.com/chessdude1/nest-graphql
+[submodule "node-graphql-service"]
+	path = node-graphql-service
+	url = https://github.com/chessdude1/node-graphql-service
