@@ -1,0 +1,1 @@
+cd node-graphql-service; npm i; npm run run:all:dev;
